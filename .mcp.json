@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "urlbox": {
+      "type": "http",
+      "url": "https://api.urlbox.com/mcp",
+      "oauth_resource": "https://api.urlbox.com/mcp"
+    }
+  }
+}

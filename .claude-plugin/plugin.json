@@ -1,0 +1,15 @@
+{
+  "name": "urlbox",
+  "displayName": "Urlbox",
+  "version": "1.0.0",
+  "description": "Screenshot, PDF, video and Markdown renders of any web page, plus Urlbox account and project management.",
+  "author": {
+    "name": "Urlbox",
+    "email": "support@urlbox.com",
+    "url": "https://urlbox.com"
+  },
+  "homepage": "https://urlbox.com/docs/agents/mcp",
+  "repository": "https://github.com/urlbox/claude-plugin",
+  "license": "MIT",
+  "keywords": ["screenshot", "pdf", "web scraping", "markdown", "browser rendering"]
+}
