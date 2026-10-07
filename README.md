@@ -17,7 +17,7 @@ The first time Claude calls Urlbox, it opens Urlbox in your browser. Sign in,
 then choose an organisation, an access level (Full access, Render and read, or
 Read only) and a default project. Only organisation owners and admins can
 connect. Secret keys are never shared with Claude. You can see and revoke the
-connection under Organisation settings, Connected assistants.
+connection under Organisation settings, AI agents.
 
 Every render uses your Urlbox plan's renders, so Claude asks before each one.
 
