@@ -1,0 +1,17 @@
+{
+  "name": "urlbox",
+  "owner": {
+    "name": "Urlbox",
+    "email": "support@urlbox.com"
+  },
+  "plugins": [
+    {
+      "name": "urlbox",
+      "source": "./",
+      "description": "Screenshot, PDF, video and Markdown renders of any web page, plus Urlbox account and project management."
+    }
+  ],
+  "metadata": {
+    "description": "The Urlbox plugin: screenshots, PDFs, videos and Markdown of any web page from Claude."
+  }
+}

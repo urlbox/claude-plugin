@@ -34,9 +34,14 @@ LICENSE                             MIT
 
 - **Claude.ai, Claude Desktop and mobile:** add Urlbox from the connector
   directory, or add `https://api.urlbox.com/mcp` as a custom connector.
-- **Claude Code:** install this plugin, or run
-  `claude mcp add --transport http urlbox https://api.urlbox.com/mcp`
-  and then `/mcp` to sign in.
+- **Claude Code:** install this plugin:
+  ```
+  claude plugin marketplace add urlbox/claude-plugin
+  claude plugin install urlbox@urlbox
+  ```
+  Or add just the server with
+  `claude mcp add --transport http urlbox https://api.urlbox.com/mcp`.
+  Then run `/mcp` to sign in.
 
 Documentation: https://urlbox.com/docs/agents/mcp
 Support: support@urlbox.com
